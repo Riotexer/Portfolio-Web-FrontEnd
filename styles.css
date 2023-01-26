@@ -1,0 +1,9 @@
+.banner {
+    position: absolute;
+    z-index: 0;
+}
+
+.perfil {
+    position: absolute;
+    z-index: 1;
+}
